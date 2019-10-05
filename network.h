@@ -6,8 +6,8 @@
 int server_fd;      // server file descriptor
                     // used so listener is initialized once
 
-uint32 intialize_listener();
-uint32 send_message(const char* message, uint32 pi);
-uint32 receive_message(char* buffer, uint32 nbytes);
+int intialize_listener();
+int send_message(const char* message, uint32 pi);
+int receive_message(char* buffer, int nbytes);
 
 #endif

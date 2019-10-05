@@ -11,7 +11,7 @@
 #include "network.h"
 
 
-uint32 intialize_listener() {
+int intialize_listener() {
 /* Initializes the listener.
  *
  * returns 1 upon successful initialization and 0 with the proper message otherwise
@@ -45,7 +45,7 @@ uint32 intialize_listener() {
 }
 
 
-uint32 send_message(const char *msg, uint32 pi) {
+int send_message(const char *msg, uint32 pi) {
 /* Sends a message to a designated raspbery pi
  *
  * First it converts the pi AEM into an adress and then sends the message.
@@ -96,7 +96,7 @@ uint32 send_message(const char *msg, uint32 pi) {
 }
 
 
-uint32 receive_message(char* buffer, uint32 nbytes) {
+int receive_message(char* buffer, int nbytes) {
 /* Receives a message from any pi in the network
  *
  * The first part of the script waits a messages to be accepted from any adress in the

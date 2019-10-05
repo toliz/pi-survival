@@ -140,9 +140,9 @@ int read_message(uint32 pi, message *m) {
  *
  * Parameters:
  *  - pi: the AEM of the pi
+ *  - m: pointer to the message to be written
  *
- *  returns: a pointer to the record to be sent or NULL if there is no message
- *           to send.
+ *  returns: the idx of the read message int the records or -1 for duplicate message
  */
     static int curr_idx = 0;
 
