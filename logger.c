@@ -12,11 +12,12 @@ void init_logger(const char* _logfile) {
 
     strcpy(logfile, _logfile);
     
-    /*if ((fp = fopen(logfile, "w")) == NULL) {
-        printf("Logger initialization failed\n");
+    if ((fp = fopen(logfile, "w")) == NULL) {
+        printf("Logger initialization failed\nQuitting...\n");
+        exit(EXIT_FAILURE);
     } else {
         fclose(fp);
-    }*/
+    }
 }
 
 void log(int status, char *msg, ...) {
@@ -39,15 +40,15 @@ void log(int status, char *msg, ...) {
     switch (status) {
         case ERROR:
             printf(ANSI_COLOR_RED ANSI_BOLD"[ERROR]\t");
-            fprintf(fp, ANSI_COLOR_RED ANSI_BOLD"[ERROR]\t");
+            fprintf(fp, "[ERROR]\t");
             break;
         case WARNING:
             printf(ANSI_BOLD ANSI_BOLD"[WARNING]\t");
-            fprintf(fp, ANSI_BOLD ANSI_BOLD"[WARNING]\t");
+            fprintf(fp, "[WARNING]\t");
             break;
         case INFO:
-            printf(ANSI_BOLD"[INFO]\t" ANSI_COLOR_RESET);
-            fprintf(fp, ANSI_BOLD"[INFO]\t"ANSI_COLOR_RESET);
+            printf("[INFO]\t");
+            fprintf(fp, "[INFO]\t");
             break;
     }
     va_list args;
@@ -58,7 +59,6 @@ void log(int status, char *msg, ...) {
 
     va_start(args, msg);
     vfprintf(fp, msg, args);
-    fprintf(fp, ANSI_COLOR_RESET);
     va_end(args);
 
     /* Exit */
