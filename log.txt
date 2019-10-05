@@ -1,0 +1,1057 @@
+[2019-10-04 20:12:44] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570209164_Message from toliz with id 0
+[0m[0m[2019-10-04 20:12:44] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:12:48] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:12:48] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209164_Message from toliz with id 0 [0mto 8861
+[0m[2019-10-04 20:12:48] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209164_Message from toliz with id 0 [0mto 8941
+[0m[2019-10-04 20:12:48] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209164_Message from toliz with id 0 [0mto 8997
+[0m[2019-10-04 20:13:51] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:14:45] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:14:45] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570209284_The ships hung in the sky in much the same way that bricks don't! #0 [0mfrom 8997
+[0m[2019-10-04 20:14:46] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:14:46] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570209284_The ships hung in the sky in much the same way that bricks don't! #0 [0mfrom 8941
+[0m[2019-10-04 20:14:54] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:14:54] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570209284_The ships hung in the sky in much the same way that bricks don't! #0 [0mto 8844
+[0m[2019-10-04 20:14:54] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570209284_The ships hung in the sky in much the same way that bricks don't! #0 [0mto 8861
+[0m[2019-10-04 20:14:54] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570209284_The ships hung in the sky in much the same way that bricks don't! #0 [0mto 8941
+[0m[2019-10-04 20:15:25] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:15:25] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570209323_kotsarelos#0 [0mfrom 8941
+[0m[2019-10-04 20:15:40] [1m[INFO]	[0mGenerated message: [1m8880_8861_1570209340_Message from toliz with id 1
+[0m[0m[2019-10-04 20:15:45] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:15:45] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570209323_kotsarelos#0 [0mfrom 8861
+[0m[2019-10-04 20:15:45] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:15:45] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570209345_This is a random message #0! [0mfrom 8861
+[0m[2019-10-04 20:15:48] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:15:48] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570209345_This is a random message #0! [0mfrom 8941
+[0m[2019-10-04 20:15:48] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:15:48] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570209345_This is a random message #0! [0mfrom 8844
+[0m[2019-10-04 20:15:57] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570209323_kotsarelos#0 [0mto 8844
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209340_Message from toliz with id 1 [0mto 8844
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570209345_This is a random message #0! [0mto 8844
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570209323_kotsarelos#0 [0mto 8861
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209340_Message from toliz with id 1 [0mto 8861
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209340_Message from toliz with id 1 [0mto 8941
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570209345_This is a random message #0! [0mto 8941
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570209323_kotsarelos#0 [0mto 8997
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209340_Message from toliz with id 1 [0mto 8997
+[0m[2019-10-04 20:15:57] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570209345_This is a random message #0! [0mto 8997
+[0m[2019-10-04 20:16:50] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:16:50] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570209381_I am message #0 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:16:52] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:16:52] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570209381_I am message #0 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:17:00] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:17:00] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570209381_I am message #0 of GKyrm [0mto 8861
+[0m[2019-10-04 20:17:00] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570209381_I am message #0 of GKyrm [0mto 8941
+[0m[2019-10-04 20:17:00] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570209381_I am message #0 of GKyrm [0mto 8997
+[0m[2019-10-04 20:17:23] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:17:23] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570209440_kotsarelos#1 [0mfrom 8941
+[0m[2019-10-04 20:17:44] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570209464_Message from toliz with id 2
+[0m[0m[2019-10-04 20:18:04] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209440_kotsarelos#1 [0mto 8844
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209464_Message from toliz with id 2 [0mto 8844
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209440_kotsarelos#1 [0mto 8861
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209464_Message from toliz with id 2 [0mto 8861
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209464_Message from toliz with id 2 [0mto 8941
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209440_kotsarelos#1 [0mto 8997
+[0m[2019-10-04 20:18:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570209464_Message from toliz with id 2 [0mto 8997
+[0m[2019-10-04 20:18:42] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:18:42] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mfrom 8997
+[0m[2019-10-04 20:18:52] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:18:52] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mfrom 8861
+[0m[2019-10-04 20:18:52] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:18:52] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570209530_This is a random message #1! [0mfrom 8861
+[0m[2019-10-04 20:18:54] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:18:54] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mfrom 8844
+[0m[2019-10-04 20:18:54] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:18:54] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570209530_This is a random message #1! [0mfrom 8844
+[0m[2019-10-04 20:19:07] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mto 8844
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209530_This is a random message #1! [0mto 8844
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mto 8861
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570209522_The ships hung in the sky in much the same way that bricks don't! #1 [0mto 8941
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209530_This is a random message #1! [0mto 8941
+[0m[2019-10-04 20:19:07] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209530_This is a random message #1! [0mto 8997
+[0m[2019-10-04 20:19:57] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:19:57] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570209598_I am message #1 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:19:58] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:19:58] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570209598_I am message #1 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:20:10] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:20:10] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570209598_I am message #1 of GKyrm [0mto 8861
+[0m[2019-10-04 20:20:10] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570209598_I am message #1 of GKyrm [0mto 8941
+[0m[2019-10-04 20:20:10] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570209598_I am message #1 of GKyrm [0mto 8997
+[0m[2019-10-04 20:20:21] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:20:21] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570209613_kotsarelos#2 [0mfrom 8941
+[0m[2019-10-04 20:21:13] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:21:13] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209613_kotsarelos#2 [0mto 8844
+[0m[2019-10-04 20:21:13] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209613_kotsarelos#2 [0mto 8861
+[0m[2019-10-04 20:21:13] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570209613_kotsarelos#2 [0mto 8997
+[0m[2019-10-04 20:21:15] [1m[INFO]	[0mGenerated message: [1m8880_8861_1570209675_Message from toliz with id 3
+[0m[0m[2019-10-04 20:21:53] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:21:53] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mfrom 8997
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mfrom 8861
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570209715_This is a random message #2! [0mfrom 8861
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:21:59] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mfrom 8941
+[0m[2019-10-04 20:22:01] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:22:01] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mfrom 8844
+[0m[2019-10-04 20:22:01] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:22:01] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570209715_This is a random message #2! [0mfrom 8844
+[0m[2019-10-04 20:22:16] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209675_Message from toliz with id 3 [0mto 8844
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mto 8844
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209715_This is a random message #2! [0mto 8844
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209675_Message from toliz with id 3 [0mto 8861
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mto 8861
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209675_Message from toliz with id 3 [0mto 8941
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209713_The ships hung in the sky in much the same way that bricks don't! #2 [0mto 8941
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209715_This is a random message #2! [0mto 8941
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570209675_Message from toliz with id 3 [0mto 8997
+[0m[2019-10-04 20:22:16] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570209715_This is a random message #2! [0mto 8997
+[0m[2019-10-04 20:23:00] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:23:00] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570209779_kotsarelos#3 [0mfrom 8941
+[0m[2019-10-04 20:23:01] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:23:01] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570209779_kotsarelos#3 [0mfrom 8861
+[0m[2019-10-04 20:23:03] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:23:03] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570209779_kotsarelos#3 [0mfrom 8844
+[0m[2019-10-04 20:23:20] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:24:21] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:24:21] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570209848_kotsarelos#4 [0mfrom 8941
+[0m[2019-10-04 20:24:23] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:24:23] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570209848_kotsarelos#4 [0mto 8844
+[0m[2019-10-04 20:24:23] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570209848_kotsarelos#4 [0mto 8861
+[0m[2019-10-04 20:24:23] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570209848_kotsarelos#4 [0mto 8997
+[0m[2019-10-04 20:24:44] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570209884_Message from toliz with id 4
+[0m[0m[2019-10-04 20:25:06] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:25:06] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570209900_This is a random message #3! [0mfrom 8861
+[0m[2019-10-04 20:25:08] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:25:08] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570209900_This is a random message #3! [0mfrom 8844
+[0m[2019-10-04 20:25:13] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:25:13] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570209900_This is a random message #3! [0mfrom 8941
+[0m[2019-10-04 20:25:26] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570209884_Message from toliz with id 4 [0mto 8844
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570209900_This is a random message #3! [0mto 8844
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570209884_Message from toliz with id 4 [0mto 8861
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570209884_Message from toliz with id 4 [0mto 8941
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570209900_This is a random message #3! [0mto 8941
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570209884_Message from toliz with id 4 [0mto 8997
+[0m[2019-10-04 20:25:26] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570209900_This is a random message #3! [0mto 8997
+[0m[2019-10-04 20:26:25] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:26:25] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570209779_kotsarelos#3 [0mfrom 8997
+[0m[2019-10-04 20:26:25] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:26:25] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570209985_The ships hung in the sky in much the same way that bricks don't! #3 [0mfrom 8997
+[0m[2019-10-04 20:26:29] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:26:29] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209985_The ships hung in the sky in much the same way that bricks don't! #3 [0mto 8844
+[0m[2019-10-04 20:26:29] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209985_The ships hung in the sky in much the same way that bricks don't! #3 [0mto 8861
+[0m[2019-10-04 20:26:29] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570209985_The ships hung in the sky in much the same way that bricks don't! #3 [0mto 8941
+[0m[2019-10-04 20:27:12] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:27:12] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570210030_kotsarelos#5 [0mfrom 8941
+[0m[2019-10-04 20:27:12] [1m[INFO]	[0mBefore receive
+[0m[2019-10-04 20:27:12] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210032_I am message #3 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:27:19] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570210039_Message from toliz with id 5
+[0m[0m[2019-10-04 20:27:32] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:27:32] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210030_kotsarelos#5 [0mto 8844
+[0m[2019-10-04 20:27:32] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210039_Message from toliz with id 5 [0mto 8844
+[0m[2019-10-04 20:27:32] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210030_kotsarelos#5 [0mto 8861
+[0m[2019-10-04 20:35:21] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570210521_Message from toliz with id 6
+[0m[0m[2019-10-04 20:35:21] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:35:21] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:35:21] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210521_Message from toliz with id 6 [0mto 8861
+[0m[2019-10-04 20:35:21] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210521_Message from toliz with id 6 [0mto 8941
+[0m[2019-10-04 20:35:21] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210521_Message from toliz with id 6 [0mto 8997
+[0m[2019-10-04 20:35:24] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210249_I am message #4 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:35:24] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mfrom 8844
+[0m[2019-10-04 20:35:25] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570210455_This is a random message #6! [0mfrom 8844
+[0m[2019-10-04 20:35:25] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210515_kotsarelos#9 [0mfrom 8844
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570210085_This is a random message #4! [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570210270_This is a random message #5! [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210249_I am message #4 of GKyri [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210283_kotsarelos#7 [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210403_kotsarelos#8 [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570210455_This is a random message #6! [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570210466_I am message #5 of GKyri [0mfrom 8861
+[0m[2019-10-04 20:35:28] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210515_kotsarelos#9 [0mfrom 8861
+[0m[2019-10-04 20:35:38] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210032_I am message #3 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:35:41] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570210140_kotsarelos#6 [0mfrom 8941
+[0m[2019-10-04 20:35:43] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210249_I am message #4 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:35:44] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210283_kotsarelos#7 [0mfrom 8941
+[0m[2019-10-04 20:35:45] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mfrom 8941
+[0m[2019-10-04 20:35:46] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210403_kotsarelos#8 [0mfrom 8941
+[0m[2019-10-04 20:35:48] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570210455_This is a random message #6! [0mfrom 8941
+[0m[2019-10-04 20:35:49] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210515_kotsarelos#9 [0mfrom 8941
+[0m[2019-10-04 20:36:21] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210085_This is a random message #4! [0mto 8844
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210270_This is a random message #5! [0mto 8844
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210283_kotsarelos#7 [0mto 8844
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210403_kotsarelos#8 [0mto 8844
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210140_kotsarelos#6 [0mto 8844
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mto 8861
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570210032_I am message #3 of GKyrm [0mto 8861
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210140_kotsarelos#6 [0mto 8861
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mto 8941
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570210455_This is a random message #6! [0mto 8941
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210085_This is a random message #4! [0mto 8941
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210270_This is a random message #5! [0mto 8941
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570210466_I am message #5 of GKyrm [0mto 8941
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570210455_This is a random message #6! [0mto 8997
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210085_This is a random message #4! [0mto 8997
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210270_This is a random message #5! [0mto 8997
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210283_kotsarelos#7 [0mto 8997
+[0m[2019-10-04 20:36:21] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210403_kotsarelos#8 [0mto 8997
+[0m[2019-10-04 20:37:09] [1m[INFO]	[0mGenerated message: [1m8880_8861_1570210629_Message from toliz with id 7
+[0m[0m[2019-10-04 20:37:09] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:37:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:37:09] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570210629_Message from toliz with id 7 [0mto 8861
+[0m[2019-10-04 20:37:09] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570210629_Message from toliz with id 7 [0mto 8941
+[0m[2019-10-04 20:37:09] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570210629_Message from toliz with id 7 [0mto 8997
+[0m[2019-10-04 20:37:27] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mfrom 8844
+[0m[2019-10-04 20:37:27] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210586_kotsarelos#10 [0mfrom 8844
+[0m[2019-10-04 20:37:32] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mfrom 8861
+[0m[2019-10-04 20:37:32] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210586_kotsarelos#10 [0mfrom 8861
+[0m[2019-10-04 20:37:32] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570210640_This is a random message #7! [0mfrom 8861
+[0m[2019-10-04 20:37:36] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210586_kotsarelos#10 [0mfrom 8941
+[0m[2019-10-04 20:37:37] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mfrom 8941
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570210030_kotsarelos#5 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210032_I am message #3 of GKyri [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570210140_kotsarelos#6 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8880_8941_1570210039_Message from toliz with id 5 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210249_I am message #4 of GKyri [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210515_kotsarelos#9 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570210586_kotsarelos#10 [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570210640_This is a random message #7! [0mfrom 8997
+[0m[2019-10-04 20:38:08] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570210688_The ships hung in the sky in much the same way that bricks don't! #6 [0mfrom 8997
+[0m[2019-10-04 20:38:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210640_This is a random message #7! [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210030_kotsarelos#5 [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210140_kotsarelos#6 [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210039_Message from toliz with id 5 [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570210688_The ships hung in the sky in much the same way that bricks don't! #6 [0mto 8844
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210030_kotsarelos#5 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570210032_I am message #3 of GKyrm [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570210140_kotsarelos#6 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210039_Message from toliz with id 5 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570210688_The ships hung in the sky in much the same way that bricks don't! #6 [0mto 8861
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570210586_The ships hung in the sky in much the same way that bricks don't! #5 [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210640_This is a random message #7! [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570210032_I am message #3 of GKyrm [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210039_Message from toliz with id 5 [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570210284_The ships hung in the sky in much the same way that bricks don't! #4 [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570210688_The ships hung in the sky in much the same way that bricks don't! #6 [0mto 8941
+[0m[2019-10-04 20:38:09] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570210640_This is a random message #7! [0mto 8997
+[0m[2019-10-04 20:38:28] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210683_I am message #6 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:38:35] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210683_I am message #6 of GKyri [0mfrom 8861
+[0m[2019-10-04 20:38:58] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210683_I am message #6 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:38:59] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570210733_kotsarelos#11 [0mfrom 8941
+[0m[2019-10-04 20:39:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:39:09] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570210733_kotsarelos#11 [0mto 8844
+[0m[2019-10-04 20:39:09] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570210733_kotsarelos#11 [0mto 8861
+[0m[2019-10-04 20:39:09] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570210733_kotsarelos#11 [0mto 8997
+[0m[2019-10-04 20:39:43] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570210783_Message from toliz with id 8
+[0m[0m[2019-10-04 20:40:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:40:09] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210783_Message from toliz with id 8 [0mto 8844
+[0m[2019-10-04 20:40:09] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210783_Message from toliz with id 8 [0mto 8861
+[0m[2019-10-04 20:40:09] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210783_Message from toliz with id 8 [0mto 8941
+[0m[2019-10-04 20:40:09] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570210783_Message from toliz with id 8 [0mto 8997
+[0m[2019-10-04 20:40:39] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570210825_This is a random message #8! [0mfrom 8861
+[0m[2019-10-04 20:41:05] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570210825_This is a random message #8! [0mfrom 8941
+[0m[2019-10-04 20:41:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:41:09] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570210825_This is a random message #8! [0mto 8844
+[0m[2019-10-04 20:41:09] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570210825_This is a random message #8! [0mto 8941
+[0m[2019-10-04 20:41:09] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570210825_This is a random message #8! [0mto 8997
+[0m[2019-10-04 20:42:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:42:33] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210900_I am message #7 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:42:44] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210900_I am message #7 of GKyri [0mfrom 8861
+[0m[2019-10-04 20:42:47] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570210683_I am message #6 of GKyri [0mfrom 8997
+[0m[2019-10-04 20:42:47] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210900_I am message #7 of GKyri [0mfrom 8997
+[0m[2019-10-04 20:42:47] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mfrom 8997
+[0m[2019-10-04 20:42:54] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570210974_Message from toliz with id 9
+[0m[0m[2019-10-04 20:43:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:43:09] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mto 8844
+[0m[2019-10-04 20:43:09] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210974_Message from toliz with id 9 [0mto 8844
+[0m[2019-10-04 20:44:43] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570211083_Message from toliz with id 10
+[0m[0m[2019-10-04 20:44:43] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:44:43] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:44:43] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211083_Message from toliz with id 10 [0mto 8861
+[0m[2019-10-04 20:44:43] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211083_Message from toliz with id 10 [0mto 8941
+[0m[2019-10-04 20:44:43] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211083_Message from toliz with id 10 [0mto 8997
+[0m[2019-10-04 20:44:48] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mfrom 8861
+[0m[2019-10-04 20:44:48] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210975_kotsarelos#12 [0mfrom 8861
+[0m[2019-10-04 20:44:48] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570211010_This is a random message #9! [0mfrom 8861
+[0m[2019-10-04 20:44:50] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570210900_I am message #7 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:44:51] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mfrom 8941
+[0m[2019-10-04 20:44:52] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570210975_kotsarelos#12 [0mfrom 8941
+[0m[2019-10-04 20:44:54] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570211010_This is a random message #9! [0mfrom 8941
+[0m[2019-10-04 20:45:37] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570211117_I am message #8 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:45:43] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mto 8844
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210975_kotsarelos#12 [0mto 8844
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570211010_This is a random message #9! [0mto 8844
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570210900_I am message #7 of GKyrm [0mto 8861
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211117_I am message #8 of GKyrm [0mto 8861
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570210967_The ships hung in the sky in much the same way that bricks don't! #7 [0mto 8941
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570211010_This is a random message #9! [0mto 8941
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211117_I am message #8 of GKyrm [0mto 8941
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570210975_kotsarelos#12 [0mto 8997
+[0m[2019-10-04 20:45:43] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570211010_This is a random message #9! [0mto 8997
+[0m[2019-10-04 20:46:44] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570211204_Message from toliz with id 11
+[0m[0m[2019-10-04 20:46:44] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:46:44] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:46:44] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211204_Message from toliz with id 11 [0mto 8861
+[0m[2019-10-04 20:46:44] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211204_Message from toliz with id 11 [0mto 8941
+[0m[2019-10-04 20:46:44] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211204_Message from toliz with id 11 [0mto 8997
+[0m[2019-10-04 20:46:53] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570211195_This is a random message #10! [0mfrom 8861
+[0m[2019-10-04 20:47:27] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570211097_kotsarelos#13 [0mfrom 8941
+[0m[2019-10-04 20:47:30] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570211195_This is a random message #10! [0mfrom 8941
+[0m[2019-10-04 20:47:31] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570211224_kotsarelos#14 [0mfrom 8941
+[0m[2019-10-04 20:47:37] [1m[INFO]	[0mReceived message: [1m 8880_8941_1570210974_Message from toliz with id 9 [0mfrom 8997
+[0m[2019-10-04 20:47:37] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570211097_kotsarelos#13 [0mfrom 8997
+[0m[2019-10-04 20:47:37] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570211117_I am message #8 of GKyri [0mfrom 8997
+[0m[2019-10-04 20:47:37] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570211195_This is a random message #10! [0mfrom 8997
+[0m[2019-10-04 20:47:37] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570211253_The ships hung in the sky in much the same way that bricks don't! #8 [0mfrom 8997
+[0m[2019-10-04 20:47:40] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570211195_This is a random message #10! [0mfrom 8844
+[0m[2019-10-04 20:47:40] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570211253_The ships hung in the sky in much the same way that bricks don't! #8 [0mfrom 8844
+[0m[2019-10-04 20:47:45] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211195_This is a random message #10! [0mto 8844
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211097_kotsarelos#13 [0mto 8844
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211224_kotsarelos#14 [0mto 8844
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210974_Message from toliz with id 9 [0mto 8844
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570211253_The ships hung in the sky in much the same way that bricks don't! #8 [0mto 8844
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211097_kotsarelos#13 [0mto 8861
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211224_kotsarelos#14 [0mto 8861
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210974_Message from toliz with id 9 [0mto 8861
+[0m[2019-10-04 20:47:45] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211117_I am message #8 of GKyrm [0mto 8861
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570211253_The ships hung in the sky in much the same way that bricks don't! #8 [0mto 8861
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211195_This is a random message #10! [0mto 8941
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570210974_Message from toliz with id 9 [0mto 8941
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211117_I am message #8 of GKyrm [0mto 8941
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570211253_The ships hung in the sky in much the same way that bricks don't! #8 [0mto 8941
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211195_This is a random message #10! [0mto 8997
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211097_kotsarelos#13 [0mto 8997
+[0m[2019-10-04 20:47:46] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211224_kotsarelos#14 [0mto 8997
+[0m[2019-10-04 20:48:46] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:48:58] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570211337_The ships hung in the sky in much the same way that bricks don't! #9 [0mfrom 8997
+[0m[2019-10-04 20:49:22] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570211337_The ships hung in the sky in much the same way that bricks don't! #9 [0mfrom 8941
+[0m[2019-10-04 20:49:42] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570211334_I am message #9 of GKyri [0mfrom 8844
+[0m[2019-10-04 20:49:42] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570211337_The ships hung in the sky in much the same way that bricks don't! #9 [0mfrom 8844
+[0m[2019-10-04 20:49:46] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:49:46] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570211337_The ships hung in the sky in much the same way that bricks don't! #9 [0mto 8844
+[0m[2019-10-04 20:49:46] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570211337_The ships hung in the sky in much the same way that bricks don't! #9 [0mto 8861
+[0m[2019-10-04 20:50:42] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570211442_Message from toliz with id 12
+[0m[0m[2019-10-04 20:50:42] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:50:42] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:50:42] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211442_Message from toliz with id 12 [0mto 8861
+[0m[2019-10-04 20:50:42] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211442_Message from toliz with id 12 [0mto 8941
+[0m[2019-10-04 20:50:42] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570211442_Message from toliz with id 12 [0mto 8997
+[0m[2019-10-04 20:50:44] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570211380_This is a random message #11! [0mfrom 8844
+[0m[2019-10-04 20:51:02] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570211380_This is a random message #11! [0mfrom 8861
+[0m[2019-10-04 20:51:02] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570211373_kotsarelos#15 [0mfrom 8861
+[0m[2019-10-04 20:51:19] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570211373_kotsarelos#15 [0mfrom 8941
+[0m[2019-10-04 20:51:20] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570211334_I am message #9 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:51:21] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570211380_This is a random message #11! [0mfrom 8941
+[0m[2019-10-04 20:51:42] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:51:43] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211373_kotsarelos#15 [0mto 8844
+[0m[2019-10-04 20:51:43] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570211334_I am message #9 of GKyri [0mto 8861
+[0m[2019-10-04 20:54:27] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570211667_Message from toliz with id 12
+[0m[0m[2019-10-04 20:54:27] [1m[INFO]	[0mListener initialized successfully
+[0m[2019-10-04 20:54:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:54:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570211667_Message from toliz with id 12 [0mto 8861
+[0m[2019-10-04 20:54:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570211667_Message from toliz with id 12 [0mto 8941
+[0m[2019-10-04 20:54:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570211667_Message from toliz with id 12 [0mto 8997
+[0m[2019-10-04 20:54:30] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570211535_kotsarelos#16 [0mfrom 8941
+[0m[2019-10-04 20:54:31] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570211551_I am message #10 of GKyri [0mfrom 8941
+[0m[2019-10-04 20:54:32] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570211565_This is a random message #12! [0mfrom 8941
+[0m[2019-10-04 20:54:33] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570211624_kotsarelos#17 [0mfrom 8941
+[0m[2019-10-04 20:54:34] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mfrom 8941
+[0m[2019-10-04 20:54:49] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mfrom 8844
+[0m[2019-10-04 20:55:11] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570211530_The ships hung in the sky in much the same way that bricks don't! #10 [0mfrom 8861
+[0m[2019-10-04 20:55:11] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570211535_kotsarelos#16 [0mfrom 8861
+[0m[2019-10-04 20:55:11] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570211565_This is a random message #12! [0mfrom 8861
+[0m[2019-10-04 20:55:11] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570211551_I am message #10 of GKyri [0mfrom 8861
+[0m[2019-10-04 20:55:11] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mfrom 8861
+[0m[2019-10-04 20:55:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211535_kotsarelos#16 [0mto 8844
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570211565_This is a random message #12! [0mto 8844
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211624_kotsarelos#17 [0mto 8844
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mto 8844
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570211530_The ships hung in the sky in much the same way that bricks don't! #10 [0mto 8844
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211535_kotsarelos#16 [0mto 8861
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570211551_I am message #10 of GKym [0mto 8861
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211624_kotsarelos#17 [0mto 8861
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mto 8861
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570211530_The ships hung in the sky in much the same way that bricks don't! #10 [0mto 8941
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211535_kotsarelos#16 [0mto 8997
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570211551_I am message #10 of GKym [0mto 8997
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570211565_This is a random message #12! [0mto 8997
+[0m[2019-10-04 20:55:28] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570211624_kotsarelos#17 [0mto 8997
+[0m[2019-10-04 20:56:13] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570211750_This is a random message #13! [0mfrom 8861
+[0m[2019-10-04 20:56:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:56:28] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211750_This is a random message #13! [0mto 8844
+[0m[2019-10-04 20:56:28] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211750_This is a random message #13! [0mto 8941
+[0m[2019-10-04 20:56:28] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570211750_This is a random message #13! [0mto 8997
+[0m[2019-10-04 20:57:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:57:59] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570211877_kotsarelos#18 [0mfrom 8941
+[0m[2019-10-04 20:58:17] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570211877_kotsarelos#18 [0mfrom 8861
+[0m[2019-10-04 20:58:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:58:50] [1m[INFO]	[0mGenerated message: [1m8880_8861_1570211930_Message from toliz with id 13
+[0m[0m[2019-10-04 20:58:54] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570211877_kotsarelos#18 [0mfrom 8844
+[0m[2019-10-04 20:59:04] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570211373_kotsarelos#15 [0mfrom 8997
+[0m[2019-10-04 20:59:04] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570211530_The ships hung in the sky in much the same way that bricks don't! #10 [0mfrom 8997
+[0m[2019-10-04 20:59:04] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570211651_The ships hung in the sky in much the same way that bricks don't! #11 [0mfrom 8997
+[0m[2019-10-04 20:59:04] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570211877_kotsarelos#18 [0mfrom 8997
+[0m[2019-10-04 20:59:04] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570211944_The ships hung in the sky in much the same way that bricks don't! #12 [0mfrom 8997
+[0m[2019-10-04 20:59:10] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570211944_The ships hung in the sky in much the same way that bricks don't! #12 [0mfrom 8941
+[0m[2019-10-04 20:59:20] [1m[INFO]	[0mReceived message: [1m 8861_8997_1570211935_This is a random message #14! [0mfrom 8861
+[0m[2019-10-04 20:59:20] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570211944_The ships hung in the sky in much the same way that bricks don't! #12 [0mfrom 8861
+[0m[2019-10-04 20:59:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570211930_Message from toliz with id 13 [0mto 8844
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211373_kotsarelos#15 [0mto 8844
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570211935_This is a random message #14! [0mto 8844
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570211930_Message from toliz with id 13 [0mto 8861
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570211373_kotsarelos#15 [0mto 8861
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570211930_Message from toliz with id 13 [0mto 8941
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570211935_This is a random message #14! [0mto 8941
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570211930_Message from toliz with id 13 [0mto 8997
+[0m[2019-10-04 20:59:28] [1m[INFO]	[0mSent message:     [1m 8861_8997_1570211935_This is a random message #14! [0mto 8997
+[0m[2019-10-04 20:59:56] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570211944_The ships hung in the sky in much the same way that bricks don't! #12 [0mfrom 8844
+[0m[2019-10-04 20:59:56] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570211985_I am message #12 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:00:22] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570211985_I am message #12 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:00:46] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:00:46] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211985_I am message #12 of GKym [0mto 8861
+[0m[2019-10-04 21:00:47] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211985_I am message #12 of GKym [0mto 8941
+[0m[2019-10-04 21:00:47] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570211985_I am message #12 of GKym [0mto 8997
+[0m[2019-10-04 21:01:50] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:02:26] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570212120_This is a random message #15! [0mfrom 8861
+[0m[2019-10-04 21:02:50] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570212170_Message from toliz with id 14
+[0m[0m[2019-10-04 21:02:50] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570212120_This is a random message #15! [0mfrom 8941
+[0m[2019-10-04 21:02:53] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570212148_kotsarelos#19 [0mfrom 8941
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212120_This is a random message #15! [0mto 8844
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212170_Message from toliz with id 14 [0mto 8844
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212148_kotsarelos#19 [0mto 8844
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212170_Message from toliz with id 14 [0mto 8861
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212148_kotsarelos#19 [0mto 8861
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212120_This is a random message #15! [0mto 8941
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212170_Message from toliz with id 14 [0mto 8941
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212120_This is a random message #15! [0mto 8997
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212170_Message from toliz with id 14 [0mto 8997
+[0m[2019-10-04 21:02:53] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212148_kotsarelos#19 [0mto 8997
+[0m[2019-10-04 21:03:37] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570212217_The ships hung in the sky in much the same way that bricks don't! #13 [0mfrom 8997
+[0m[2019-10-04 21:03:56] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:03:56] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570212217_The ships hung in the sky in much the same way that bricks don't! #13 [0mto 8844
+[0m[2019-10-04 21:03:56] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570212217_The ships hung in the sky in much the same way that bricks don't! #13 [0mto 8861
+[0m[2019-10-04 21:03:56] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570212217_The ships hung in the sky in much the same way that bricks don't! #13 [0mto 8941
+[0m[2019-10-04 21:04:05] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570212202_I am message #13 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:04:09] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570212202_I am message #13 of GKyri [0mfrom 8941
+[0m[2019-10-04 21:04:27] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570212267_Message from toliz with id 15
+[0m[0m[2019-10-04 21:04:31] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570212202_I am message #13 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:04:59] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212267_Message from toliz with id 15 [0mto 8844
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570212202_I am message #13 of GKym [0mto 8861
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212267_Message from toliz with id 15 [0mto 8861
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570212202_I am message #13 of GKym [0mto 8941
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212267_Message from toliz with id 15 [0mto 8941
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570212202_I am message #13 of GKym [0mto 8997
+[0m[2019-10-04 21:04:59] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570212267_Message from toliz with id 15 [0mto 8997
+[0m[2019-10-04 21:05:29] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570212277_kotsarelos#20 [0mfrom 8941
+[0m[2019-10-04 21:05:33] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570212305_This is a random message #16! [0mfrom 8861
+[0m[2019-10-04 21:05:33] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570212277_kotsarelos#20 [0mfrom 8861
+[0m[2019-10-04 21:06:02] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212277_kotsarelos#20 [0mto 8844
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212305_This is a random message #16! [0mto 8844
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212277_kotsarelos#20 [0mto 8861
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212305_This is a random message #16! [0mto 8941
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212277_kotsarelos#20 [0mto 8997
+[0m[2019-10-04 21:06:02] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212305_This is a random message #16! [0mto 8997
+[0m[2019-10-04 21:06:45] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570212405_Message from toliz with id 16
+[0m[0m[2019-10-04 21:06:52] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570212358_kotsarelos#21 [0mfrom 8941
+[0m[2019-10-04 21:07:06] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570212405_Message from toliz with id 16 [0mto 8844
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570212358_kotsarelos#21 [0mto 8844
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570212405_Message from toliz with id 16 [0mto 8861
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570212358_kotsarelos#21 [0mto 8861
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570212405_Message from toliz with id 16 [0mto 8941
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570212405_Message from toliz with id 16 [0mto 8997
+[0m[2019-10-04 21:07:06] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570212358_kotsarelos#21 [0mto 8997
+[0m[2019-10-04 21:07:12] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570212419_I am message #14 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:07:38] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570212419_I am message #14 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:07:45] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570212419_I am message #14 of GKyri [0mfrom 8997
+[0m[2019-10-04 21:07:45] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570212465_The ships hung in the sky in much the same way that bricks don't! #14 [0mfrom 8997
+[0m[2019-10-04 21:08:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:08:09] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570212419_I am message #14 of GKym [0mto 8861
+[0m[2019-10-04 21:08:09] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570212419_I am message #14 of GKym [0mto 8941
+[0m[2019-10-04 21:08:09] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570212419_I am message #14 of GKym [0mto 8997
+[0m[2019-10-04 21:08:14] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570212465_The ships hung in the sky in much the same way that bricks don't! #14 [0mfrom 8844
+[0m[2019-10-04 21:08:15] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570212495_Message from toliz with id 17
+[0m[0m[2019-10-04 21:08:17] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570212465_The ships hung in the sky in much the same way that bricks don't! #14 [0mfrom 8941
+[0m[2019-10-04 21:08:40] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570212465_The ships hung in the sky in much the same way that bricks don't! #14 [0mfrom 8861
+[0m[2019-10-04 21:08:40] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570212490_This is a random message #17! [0mfrom 8861
+[0m[2019-10-04 21:09:12] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:09:12] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570212495_Message from toliz with id 17 [0mto 8844
+[0m[2019-10-04 21:09:12] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570212495_Message from toliz with id 17 [0mto 8861
+[0m[2019-10-04 21:09:12] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570212495_Message from toliz with id 17 [0mto 8941
+[0m[2019-10-04 21:09:12] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570212495_Message from toliz with id 17 [0mto 8997
+[0m[2019-10-04 21:09:16] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570212490_This is a random message #17! [0mfrom 8844
+[0m[2019-10-04 21:09:43] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570212490_This is a random message #17! [0mfrom 8941
+[0m[2019-10-04 21:09:44] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570212522_kotsarelos#22 [0mfrom 8941
+[0m[2019-10-04 21:09:49] [1m[INFO]	[0mGenerated message: [1m8880_8861_1570212589_Message from toliz with id 18
+[0m[0m[2019-10-04 21:10:15] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212522_kotsarelos#22 [0mto 8844
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570212589_Message from toliz with id 18 [0mto 8844
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212522_kotsarelos#22 [0mto 8861
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570212589_Message from toliz with id 18 [0mto 8861
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570212589_Message from toliz with id 18 [0mto 8941
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570212522_kotsarelos#22 [0mto 8997
+[0m[2019-10-04 21:10:15] [1m[INFO]	[0mSent message:     [1m 8880_8861_1570212589_Message from toliz with id 18 [0mto 8997
+[0m[2019-10-04 21:11:18] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:11:20] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570212636_I am message #15 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:11:47] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570212675_This is a random message #18! [0mfrom 8861
+[0m[2019-10-04 21:11:47] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570212636_I am message #15 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:12:22] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212675_This is a random message #18! [0mto 8844
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212636_I am message #15 of GKym [0mto 8861
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212636_I am message #15 of GKym [0mto 8941
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212675_This is a random message #18! [0mto 8941
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212636_I am message #15 of GKym [0mto 8997
+[0m[2019-10-04 21:12:22] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570212675_This is a random message #18! [0mto 8997
+[0m[2019-10-04 21:12:33] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570212490_This is a random message #17! [0mfrom 8997
+[0m[2019-10-04 21:12:34] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mfrom 8997
+[0m[2019-10-04 21:12:46] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570212740_kotsarelos#23 [0mfrom 8941
+[0m[2019-10-04 21:12:49] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mfrom 8861
+[0m[2019-10-04 21:12:49] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570212740_kotsarelos#23 [0mfrom 8861
+[0m[2019-10-04 21:13:24] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mfrom 8844
+[0m[2019-10-04 21:13:25] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:13:25] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mto 8844
+[0m[2019-10-04 21:13:25] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mto 8861
+[0m[2019-10-04 21:13:25] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570212740_kotsarelos#23 [0mfrom 8844
+[0m[2019-10-04 21:13:25] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570212753_The ships hung in the sky in much the same way that bricks don't! #15 [0mto 8941
+[0m[2019-10-04 21:13:46] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570212826_Message from toliz with id 19
+[0m[0m[2019-10-04 21:14:27] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570212853_I am message #16 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:14:28] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570212826_Message from toliz with id 19 [0mto 8844
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570212826_Message from toliz with id 19 [0mto 8861
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212853_I am message #16 of GKym [0mto 8861
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570212826_Message from toliz with id 19 [0mto 8941
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212853_I am message #16 of GKym [0mto 8941
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570212826_Message from toliz with id 19 [0mto 8997
+[0m[2019-10-04 21:14:28] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570212853_I am message #16 of GKym [0mto 8997
+[0m[2019-10-04 21:14:53] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570212860_This is a random message #19! [0mfrom 8861
+[0m[2019-10-04 21:15:29] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570212860_This is a random message #19! [0mfrom 8844
+[0m[2019-10-04 21:15:31] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:15:31] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212860_This is a random message #19! [0mto 8844
+[0m[2019-10-04 21:15:31] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212860_This is a random message #19! [0mto 8941
+[0m[2019-10-04 21:15:31] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570212860_This is a random message #19! [0mto 8997
+[0m[2019-10-04 21:15:58] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570212955_kotsarelos#24 [0mfrom 8941
+[0m[2019-10-04 21:16:34] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:16:34] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212955_kotsarelos#24 [0mto 8844
+[0m[2019-10-04 21:16:34] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212955_kotsarelos#24 [0mto 8861
+[0m[2019-10-04 21:16:34] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570212955_kotsarelos#24 [0mto 8997
+[0m[2019-10-04 21:16:55] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570212740_kotsarelos#23 [0mfrom 8997
+[0m[2019-10-04 21:16:55] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mfrom 8997
+[0m[2019-10-04 21:16:58] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mfrom 8861
+[0m[2019-10-04 21:17:36] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mfrom 8941
+[0m[2019-10-04 21:17:38] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:17:38] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mto 8844
+[0m[2019-10-04 21:17:38] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mto 8861
+[0m[2019-10-04 21:17:38] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213015_The ships hung in the sky in much the same way that bricks don't! #16 [0mto 8941
+[0m[2019-10-04 21:18:00] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570213045_This is a random message #20! [0mfrom 8861
+[0m[2019-10-04 21:18:25] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570213105_Message from toliz with id 20
+[0m[0m[2019-10-04 21:18:36] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570213070_I am message #17 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:18:41] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213045_This is a random message #20! [0mto 8844
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213105_Message from toliz with id 20 [0mto 8844
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213105_Message from toliz with id 20 [0mto 8861
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213070_I am message #17 of GKym [0mto 8861
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213045_This is a random message #20! [0mto 8941
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213105_Message from toliz with id 20 [0mto 8941
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213070_I am message #17 of GKym [0mto 8941
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213045_This is a random message #20! [0mto 8997
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213105_Message from toliz with id 20 [0mto 8997
+[0m[2019-10-04 21:18:41] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213070_I am message #17 of GKym [0mto 8997
+[0m[2019-10-04 21:19:44] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:19:53] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mfrom 8997
+[0m[2019-10-04 21:20:04] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mfrom 8861
+[0m[2019-10-04 21:20:30] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570213230_Message from toliz with id 21
+[0m[0m[2019-10-04 21:20:40] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mfrom 8844
+[0m[2019-10-04 21:20:47] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mto 8844
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213230_Message from toliz with id 21 [0mto 8844
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mto 8861
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213230_Message from toliz with id 21 [0mto 8861
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570213192_The ships hung in the sky in much the same way that bricks don't! #17 [0mto 8941
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213230_Message from toliz with id 21 [0mto 8941
+[0m[2019-10-04 21:20:47] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213230_Message from toliz with id 21 [0mto 8997
+[0m[2019-10-04 21:20:59] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570213188_kotsarelos#25 [0mfrom 8941
+[0m[2019-10-04 21:21:07] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213230_This is a random message #21! [0mfrom 8861
+[0m[2019-10-04 21:21:07] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570213188_kotsarelos#25 [0mfrom 8861
+[0m[2019-10-04 21:21:10] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570213188_kotsarelos#25 [0mfrom 8997
+[0m[2019-10-04 21:21:10] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570213270_The ships hung in the sky in much the same way that bricks don't! #18 [0mfrom 8997
+[0m[2019-10-04 21:21:42] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213230_This is a random message #21! [0mfrom 8844
+[0m[2019-10-04 21:21:42] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570213270_The ships hung in the sky in much the same way that bricks don't! #18 [0mfrom 8844
+[0m[2019-10-04 21:21:42] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570213287_I am message #18 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:21:50] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213188_kotsarelos#25 [0mto 8844
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213188_kotsarelos#25 [0mto 8861
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570213287_I am message #18 of GKym [0mto 8861
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570213287_I am message #18 of GKym [0mto 8941
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213188_kotsarelos#25 [0mto 8997
+[0m[2019-10-04 21:21:50] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570213287_I am message #18 of GKym [0mto 8997
+[0m[2019-10-04 21:22:09] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570213270_The ships hung in the sky in much the same way that bricks don't! #18 [0mfrom 8861
+[0m[2019-10-04 21:22:47] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213230_This is a random message #21! [0mfrom 8941
+[0m[2019-10-04 21:22:48] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570213270_The ships hung in the sky in much the same way that bricks don't! #18 [0mfrom 8941
+[0m[2019-10-04 21:22:50] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570213339_kotsarelos#26 [0mfrom 8941
+[0m[2019-10-04 21:22:54] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:22:54] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570213371_Message from toliz with id 22
+[0m[0m[2019-10-04 21:22:54] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570213371_Message from toliz with id 22 [0mto 8844
+[0m[2019-10-04 21:22:54] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570213371_Message from toliz with id 22 [0mto 8861
+[0m[2019-10-04 21:22:54] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570213371_Message from toliz with id 22 [0mto 8941
+[0m[2019-10-04 21:22:54] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570213371_Message from toliz with id 22 [0mto 8997
+[0m[2019-10-04 21:23:11] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570213339_kotsarelos#26 [0mfrom 8861
+[0m[2019-10-04 21:23:46] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570213339_kotsarelos#26 [0mfrom 8844
+[0m[2019-10-04 21:23:57] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:24:06] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570213446_Message from toliz with id 23
+[0m[0m[2019-10-04 21:24:14] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213415_This is a random message #22! [0mfrom 8861
+[0m[2019-10-04 21:24:40] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213415_This is a random message #22! [0mfrom 8941
+[0m[2019-10-04 21:24:49] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213415_This is a random message #22! [0mfrom 8844
+[0m[2019-10-04 21:25:00] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213446_Message from toliz with id 23 [0mto 8844
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213415_This is a random message #22! [0mto 8844
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213446_Message from toliz with id 23 [0mto 8861
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213446_Message from toliz with id 23 [0mto 8941
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213415_This is a random message #22! [0mto 8941
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213446_Message from toliz with id 23 [0mto 8997
+[0m[2019-10-04 21:25:00] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213415_This is a random message #22! [0mto 8997
+[0m[2019-10-04 21:25:17] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213230_This is a random message #21! [0mfrom 8997
+[0m[2019-10-04 21:25:17] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570213287_I am message #18 of GKyri [0mfrom 8997
+[0m[2019-10-04 21:25:17] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570213339_kotsarelos#26 [0mfrom 8997
+[0m[2019-10-04 21:25:17] [1m[INFO]	[0mReceived message: [1m 8880_8261_1570213446_Message from toliz with id 23 [0mfrom 8997
+[0m[2019-10-04 21:25:17] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213517_The ships hung in the sky in much the same way that bricks don't! #19 [0mfrom 8997
+[0m[2019-10-04 21:25:51] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570213504_I am message #19 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:26:03] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213517_The ships hung in the sky in much the same way that bricks don't! #19 [0mto 8844
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213517_The ships hung in the sky in much the same way that bricks don't! #19 [0mto 8861
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213504_I am message #19 of GKym [0mto 8861
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213517_The ships hung in the sky in much the same way that bricks don't! #19 [0mto 8941
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213504_I am message #19 of GKym [0mto 8941
+[0m[2019-10-04 21:26:03] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570213504_I am message #19 of GKym [0mto 8997
+[0m[2019-10-04 21:26:32] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570213515_kotsarelos#27 [0mfrom 8941
+[0m[2019-10-04 21:26:53] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570213515_kotsarelos#27 [0mfrom 8844
+[0m[2019-10-04 21:27:06] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:27:06] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213515_kotsarelos#27 [0mto 8844
+[0m[2019-10-04 21:27:06] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213515_kotsarelos#27 [0mto 8861
+[0m[2019-10-04 21:27:06] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213515_kotsarelos#27 [0mto 8997
+[0m[2019-10-04 21:27:21] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570213600_This is a random message #23! [0mfrom 8861
+[0m[2019-10-04 21:27:57] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570213677_Message from toliz with id 24
+[0m[0m[2019-10-04 21:28:09] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:28:09] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213600_This is a random message #23! [0mto 8844
+[0m[2019-10-04 21:28:09] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213677_Message from toliz with id 24 [0mto 8844
+[0m[2019-10-04 21:28:09] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213677_Message from toliz with id 24 [0mto 8861
+[0m[2019-10-04 21:28:09] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213600_This is a random message #23! [0mto 8941
+[0m[2019-10-04 21:28:09] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213677_Message from toliz with id 24 [0mto 8941
+[0m[2019-10-04 21:28:10] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570213600_This is a random message #23! [0mto 8997
+[0m[2019-10-04 21:28:10] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570213677_Message from toliz with id 24 [0mto 8997
+[0m[2019-10-04 21:28:30] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mfrom 8997
+[0m[2019-10-04 21:28:30] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570213637_kotsarelos#28 [0mfrom 8941
+[0m[2019-10-04 21:28:33] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mfrom 8941
+[0m[2019-10-04 21:28:57] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mfrom 8844
+[0m[2019-10-04 21:29:13] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mto 8844
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213637_kotsarelos#28 [0mto 8844
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mto 8861
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213637_kotsarelos#28 [0mto 8861
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570213709_The ships hung in the sky in much the same way that bricks don't! #20 [0mto 8941
+[0m[2019-10-04 21:29:13] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570213637_kotsarelos#28 [0mto 8997
+[0m[2019-10-04 21:30:16] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:30:28] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213785_This is a random message #24! [0mfrom 8861
+[0m[2019-10-04 21:30:32] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213785_This is a random message #24! [0mfrom 8941
+[0m[2019-10-04 21:30:57] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213785_This is a random message #24! [0mfrom 8997
+[0m[2019-10-04 21:30:57] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213857_The ships hung in the sky in much the same way that bricks don't! #21 [0mfrom 8997
+[0m[2019-10-04 21:31:02] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570213785_This is a random message #24! [0mfrom 8844
+[0m[2019-10-04 21:31:19] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213785_This is a random message #24! [0mto 8844
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213857_The ships hung in the sky in much the same way that bricks don't! #21 [0mto 8844
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213857_The ships hung in the sky in much the same way that bricks don't! #21 [0mto 8861
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213785_This is a random message #24! [0mto 8941
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213857_The ships hung in the sky in much the same way that bricks don't! #21 [0mto 8941
+[0m[2019-10-04 21:31:19] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570213785_This is a random message #24! [0mto 8997
+[0m[2019-10-04 21:32:04] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570213924_Message from toliz with id 25
+[0m[0m[2019-10-04 21:32:04] [1m[INFO]	[0mReceived message: [1m 8997_8844_1570213923_The ships hung in the sky in much the same way that bricks don't! #22 [0mfrom 8997
+[0m[2019-10-04 21:32:22] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213924_Message from toliz with id 25 [0mto 8844
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213923_The ships hung in the sky in much the same way that bricks don't! #22 [0mto 8844
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213924_Message from toliz with id 25 [0mto 8861
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213923_The ships hung in the sky in much the same way that bricks don't! #22 [0mto 8861
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213924_Message from toliz with id 25 [0mto 8941
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8997_8844_1570213923_The ships hung in the sky in much the same way that bricks don't! #22 [0mto 8941
+[0m[2019-10-04 21:32:22] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570213924_Message from toliz with id 25 [0mto 8997
+[0m[2019-10-04 21:32:33] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570213893_kotsarelos#29 [0mfrom 8941
+[0m[2019-10-04 21:33:06] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570213893_kotsarelos#29 [0mfrom 8844
+[0m[2019-10-04 21:33:25] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:33:25] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213893_kotsarelos#29 [0mto 8844
+[0m[2019-10-04 21:33:25] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213893_kotsarelos#29 [0mto 8861
+[0m[2019-10-04 21:33:25] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570213893_kotsarelos#29 [0mto 8997
+[0m[2019-10-04 21:33:35] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213970_This is a random message #25! [0mfrom 8861
+[0m[2019-10-04 21:34:09] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213970_This is a random message #25! [0mfrom 8844
+[0m[2019-10-04 21:34:29] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:34:39] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570214079_Message from toliz with id 26
+[0m[0m[2019-10-04 21:34:40] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213970_This is a random message #25! [0mfrom 8941
+[0m[2019-10-04 21:35:32] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:35:32] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214079_Message from toliz with id 26 [0mto 8844
+[0m[2019-10-04 21:35:32] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214079_Message from toliz with id 26 [0mto 8861
+[0m[2019-10-04 21:35:32] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214079_Message from toliz with id 26 [0mto 8941
+[0m[2019-10-04 21:35:32] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214079_Message from toliz with id 26 [0mto 8997
+[0m[2019-10-04 21:35:42] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570213970_This is a random message #25! [0mfrom 8997
+[0m[2019-10-04 21:35:42] [1m[INFO]	[0mReceived message: [1m 8880_8844_1570214079_Message from toliz with id 26 [0mfrom 8997
+[0m[2019-10-04 21:35:42] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570214141_The ships hung in the sky in much the same way that bricks don't! #23 [0mfrom 8997
+[0m[2019-10-04 21:36:13] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570214141_The ships hung in the sky in much the same way that bricks don't! #23 [0mfrom 8844
+[0m[2019-10-04 21:36:35] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:36:35] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570214141_The ships hung in the sky in much the same way that bricks don't! #23 [0mto 8844
+[0m[2019-10-04 21:36:35] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570214141_The ships hung in the sky in much the same way that bricks don't! #23 [0mto 8861
+[0m[2019-10-04 21:36:35] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570214141_The ships hung in the sky in much the same way that bricks don't! #23 [0mto 8941
+[0m[2019-10-04 21:36:42] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570214155_This is a random message #26! [0mfrom 8861
+[0m[2019-10-04 21:36:47] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214178_kotsarelos#30 [0mfrom 8941
+[0m[2019-10-04 21:36:48] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570214155_This is a random message #26! [0mfrom 8941
+[0m[2019-10-04 21:37:15] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214178_kotsarelos#30 [0mfrom 8844
+[0m[2019-10-04 21:37:38] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214155_This is a random message #26! [0mto 8844
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214178_kotsarelos#30 [0mto 8844
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214178_kotsarelos#30 [0mto 8861
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214155_This is a random message #26! [0mto 8941
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214155_This is a random message #26! [0mto 8997
+[0m[2019-10-04 21:37:38] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214178_kotsarelos#30 [0mto 8997
+[0m[2019-10-04 21:38:41] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:38:41] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570214321_Message from toliz with id 27
+[0m[0m[2019-10-04 21:38:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214321_Message from toliz with id 27 [0mto 8844
+[0m[2019-10-04 21:38:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214321_Message from toliz with id 27 [0mto 8861
+[0m[2019-10-04 21:38:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214321_Message from toliz with id 27 [0mto 8941
+[0m[2019-10-04 21:38:41] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214321_Message from toliz with id 27 [0mto 8997
+[0m[2019-10-04 21:38:57] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570214282_kotsarelos#31 [0mfrom 8941
+[0m[2019-10-04 21:39:45] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:39:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570214282_kotsarelos#31 [0mto 8844
+[0m[2019-10-04 21:39:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570214282_kotsarelos#31 [0mto 8861
+[0m[2019-10-04 21:39:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570214282_kotsarelos#31 [0mto 8997
+[0m[2019-10-04 21:39:49] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214340_This is a random message #27! [0mfrom 8861
+[0m[2019-10-04 21:39:59] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214340_This is a random message #27! [0mfrom 8997
+[0m[2019-10-04 21:39:59] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570214399_The ships hung in the sky in much the same way that bricks don't! #24 [0mfrom 8997
+[0m[2019-10-04 21:40:22] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570214372_I am message #23 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:40:22] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214340_This is a random message #27! [0mfrom 8844
+[0m[2019-10-04 21:40:22] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570214399_The ships hung in the sky in much the same way that bricks don't! #24 [0mfrom 8844
+[0m[2019-10-04 21:40:48] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570214399_The ships hung in the sky in much the same way that bricks don't! #24 [0mto 8844
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570214399_The ships hung in the sky in much the same way that bricks don't! #24 [0mto 8861
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570214372_I am message #23 of GKym [0mto 8861
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570214399_The ships hung in the sky in much the same way that bricks don't! #24 [0mto 8941
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570214372_I am message #23 of GKym [0mto 8941
+[0m[2019-10-04 21:40:48] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570214372_I am message #23 of GKym [0mto 8997
+[0m[2019-10-04 21:41:09] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214340_This is a random message #27! [0mfrom 8941
+[0m[2019-10-04 21:41:10] [1m[INFO]	[0mGenerated message: [1m8880_8997_1570214470_Message from toliz with id 28
+[0m[0m[2019-10-04 21:41:51] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:41:51] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570214470_Message from toliz with id 28 [0mto 8844
+[0m[2019-10-04 21:41:51] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570214470_Message from toliz with id 28 [0mto 8861
+[0m[2019-10-04 21:41:51] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570214470_Message from toliz with id 28 [0mto 8941
+[0m[2019-10-04 21:41:51] [1m[INFO]	[0mSent message:     [1m 8880_8997_1570214470_Message from toliz with id 28 [0mto 8997
+[0m[2019-10-04 21:42:44] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570214564_Message from toliz with id 29
+[0m[0m[2019-10-04 21:42:54] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:42:54] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214564_Message from toliz with id 29 [0mto 8844
+[0m[2019-10-04 21:42:54] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214564_Message from toliz with id 29 [0mto 8861
+[0m[2019-10-04 21:42:54] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214564_Message from toliz with id 29 [0mto 8941
+[0m[2019-10-04 21:42:54] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214564_Message from toliz with id 29 [0mto 8997
+[0m[2019-10-04 21:42:56] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570214525_This is a random message #28! [0mfrom 8861
+[0m[2019-10-04 21:43:27] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214518_kotsarelos#32 [0mfrom 8941
+[0m[2019-10-04 21:43:29] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570214525_This is a random message #28! [0mfrom 8941
+[0m[2019-10-04 21:43:29] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570214589_I am message #24 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:43:29] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214518_kotsarelos#32 [0mfrom 8844
+[0m[2019-10-04 21:43:53] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570214525_This is a random message #28! [0mfrom 8997
+[0m[2019-10-04 21:43:54] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570214589_I am message #24 of GKyri [0mfrom 8997
+[0m[2019-10-04 21:43:54] [1m[INFO]	[0mReceived message: [1m 8997_7700_1570214633_The ships hung in the sky in much the same way that bricks don't! #25 [0mfrom 8997
+[0m[2019-10-04 21:43:57] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214525_This is a random message #28! [0mto 8844
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214518_kotsarelos#32 [0mto 8844
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570214633_The ships hung in the sky in much the same way that bricks don't! #25 [0mto 8844
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214518_kotsarelos#32 [0mto 8861
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214589_I am message #24 of GKym [0mto 8861
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570214633_The ships hung in the sky in much the same way that bricks don't! #25 [0mto 8861
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214525_This is a random message #28! [0mto 8941
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214589_I am message #24 of GKym [0mto 8941
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8997_7700_1570214633_The ships hung in the sky in much the same way that bricks don't! #25 [0mto 8941
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570214525_This is a random message #28! [0mto 8997
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214518_kotsarelos#32 [0mto 8997
+[0m[2019-10-04 21:43:57] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214589_I am message #24 of GKym [0mto 8997
+[0m[2019-10-04 21:43:59] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570214639_Message from toliz with id 30
+[0m[0m[2019-10-04 21:45:01] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:45:01] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214639_Message from toliz with id 30 [0mto 8844
+[0m[2019-10-04 21:45:01] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214639_Message from toliz with id 30 [0mto 8861
+[0m[2019-10-04 21:45:01] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214639_Message from toliz with id 30 [0mto 8941
+[0m[2019-10-04 21:45:01] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570214639_Message from toliz with id 30 [0mto 8997
+[0m[2019-10-04 21:45:26] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570214726_Message from toliz with id 31
+[0m[0m[2019-10-04 21:45:48] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214624_kotsarelos#33 [0mfrom 8941
+[0m[2019-10-04 21:46:03] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214710_This is a random message #29! [0mfrom 8861
+[0m[2019-10-04 21:46:04] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214624_kotsarelos#33 [0mfrom 8861
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214726_Message from toliz with id 31 [0mto 8844
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214624_kotsarelos#33 [0mto 8844
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214726_Message from toliz with id 31 [0mto 8861
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214624_kotsarelos#33 [0mto 8861
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214726_Message from toliz with id 31 [0mto 8941
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570214726_Message from toliz with id 31 [0mto 8997
+[0m[2019-10-04 21:46:04] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214624_kotsarelos#33 [0mto 8997
+[0m[2019-10-04 21:46:35] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214710_This is a random message #29! [0mfrom 8844
+[0m[2019-10-04 21:47:07] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:47:12] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214710_This is a random message #29! [0mfrom 8997
+[0m[2019-10-04 21:47:12] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mfrom 8997
+[0m[2019-10-04 21:47:30] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570214850_Message from toliz with id 32
+[0m[0m[2019-10-04 21:47:38] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570214806_I am message #25 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:47:38] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mfrom 8844
+[0m[2019-10-04 21:48:07] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mfrom 8861
+[0m[2019-10-04 21:48:10] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mto 8844
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570214850_Message from toliz with id 32 [0mto 8844
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570214806_I am message #25 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mto 8861
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570214850_Message from toliz with id 32 [0mto 8861
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214806_I am message #25 of GKym [0mto 8861
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570214831_The ships hung in the sky in much the same way that bricks don't! #26 [0mto 8941
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570214850_Message from toliz with id 32 [0mto 8941
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214806_I am message #25 of GKym [0mto 8941
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570214850_Message from toliz with id 32 [0mto 8997
+[0m[2019-10-04 21:48:10] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570214806_I am message #25 of GKym [0mto 8997
+[0m[2019-10-04 21:48:12] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570214710_This is a random message #29! [0mfrom 8941
+[0m[2019-10-04 21:48:16] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214877_kotsarelos#34 [0mfrom 8941
+[0m[2019-10-04 21:48:40] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214877_kotsarelos#34 [0mfrom 8844
+[0m[2019-10-04 21:49:09] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570214895_This is a random message #30! [0mfrom 8861
+[0m[2019-10-04 21:49:09] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570214877_kotsarelos#34 [0mfrom 8861
+[0m[2019-10-04 21:49:13] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214877_kotsarelos#34 [0mto 8844
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570214895_This is a random message #30! [0mto 8844
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214877_kotsarelos#34 [0mto 8861
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570214895_This is a random message #30! [0mto 8941
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570214877_kotsarelos#34 [0mto 8997
+[0m[2019-10-04 21:49:13] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570214895_This is a random message #30! [0mto 8997
+[0m[2019-10-04 21:50:17] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:50:25] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570215025_Message from toliz with id 33
+[0m[0m[2019-10-04 21:50:44] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570215023_I am message #26 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:50:47] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570215023_I am message #26 of GKyri [0mfrom 8941
+[0m[2019-10-04 21:51:14] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570215023_I am message #26 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:51:20] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215025_Message from toliz with id 33 [0mto 8844
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215025_Message from toliz with id 33 [0mto 8861
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570215023_I am message #26 of GKym [0mto 8861
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215025_Message from toliz with id 33 [0mto 8941
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570215023_I am message #26 of GKym [0mto 8941
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215025_Message from toliz with id 33 [0mto 8997
+[0m[2019-10-04 21:51:20] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570215023_I am message #26 of GKym [0mto 8997
+[0m[2019-10-04 21:51:43] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570215103_Message from toliz with id 34
+[0m[0m[2019-10-04 21:51:46] [1m[INFO]	[0mReceived message: [1m 8880_8844_1570215025_Message from toliz with id 33 [0mfrom 8997
+[0m[2019-10-04 21:51:46] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mfrom 8997
+[0m[2019-10-04 21:51:46] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mfrom 8844
+[0m[2019-10-04 21:52:16] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570215080_This is a random message #31! [0mfrom 8861
+[0m[2019-10-04 21:52:16] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mfrom 8861
+[0m[2019-10-04 21:52:23] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215103_Message from toliz with id 34 [0mto 8844
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mto 8844
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215080_This is a random message #31! [0mto 8844
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215103_Message from toliz with id 34 [0mto 8861
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mto 8861
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215103_Message from toliz with id 34 [0mto 8941
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215105_The ships hung in the sky in much the same way that bricks don't! #27 [0mto 8941
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215080_This is a random message #31! [0mto 8941
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215103_Message from toliz with id 34 [0mto 8997
+[0m[2019-10-04 21:52:23] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215080_This is a random message #31! [0mto 8997
+[0m[2019-10-04 21:53:20] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570215141_kotsarelos#35 [0mfrom 8941
+[0m[2019-10-04 21:53:26] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570215203_Message from toliz with id 35
+[0m[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215141_kotsarelos#35 [0mto 8844
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215203_Message from toliz with id 35 [0mto 8844
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215141_kotsarelos#35 [0mto 8861
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215203_Message from toliz with id 35 [0mto 8861
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215203_Message from toliz with id 35 [0mto 8941
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215141_kotsarelos#35 [0mto 8997
+[0m[2019-10-04 21:53:26] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215203_Message from toliz with id 35 [0mto 8997
+[0m[2019-10-04 21:54:29] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:54:53] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570215240_I am message #27 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:55:23] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570215265_This is a random message #32! [0mfrom 8861
+[0m[2019-10-04 21:55:23] [1m[INFO]	[0mReceived message: [1m 8844_8941_1570215240_I am message #27 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:55:32] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:55:32] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215265_This is a random message #32! [0mto 8844
+[0m[2019-10-04 21:55:32] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570215240_I am message #27 of GKym [0mto 8861
+[0m[2019-10-04 21:55:33] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570215240_I am message #27 of GKym [0mto 8941
+[0m[2019-10-04 21:55:33] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215265_This is a random message #32! [0mto 8941
+[0m[2019-10-04 21:55:33] [1m[INFO]	[0mSent message:     [1m 8844_8941_1570215240_I am message #27 of GKym [0mto 8997
+[0m[2019-10-04 21:55:33] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215265_This is a random message #32! [0mto 8997
+[0m[2019-10-04 21:56:13] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570215372_The ships hung in the sky in much the same way that bricks don't! #28 [0mfrom 8997
+[0m[2019-10-04 21:56:25] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570215372_The ships hung in the sky in much the same way that bricks don't! #28 [0mfrom 8861
+[0m[2019-10-04 21:56:36] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:56:36] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215372_The ships hung in the sky in much the same way that bricks don't! #28 [0mto 8844
+[0m[2019-10-04 21:56:36] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215372_The ships hung in the sky in much the same way that bricks don't! #28 [0mto 8861
+[0m[2019-10-04 21:56:36] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215372_The ships hung in the sky in much the same way that bricks don't! #28 [0mto 8941
+[0m[2019-10-04 21:57:39] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:57:41] [1m[INFO]	[0mGenerated message: [1m8880_8941_1570215461_Message from toliz with id 36
+[0m[0m[2019-10-04 21:57:59] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570215457_I am message #28 of GKyri [0mfrom 8844
+[0m[2019-10-04 21:58:12] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570215490_The ships hung in the sky in much the same way that bricks don't! #29 [0mfrom 8997
+[0m[2019-10-04 21:58:30] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570215450_This is a random message #33! [0mfrom 8861
+[0m[2019-10-04 21:58:30] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570215457_I am message #28 of GKyri [0mfrom 8861
+[0m[2019-10-04 21:58:30] [1m[INFO]	[0mReceived message: [1m 8997_8941_1570215490_The ships hung in the sky in much the same way that bricks don't! #29 [0mfrom 8861
+[0m[2019-10-04 21:58:38] [1m[INFO]	[0mReceived message: [1m 8941_8997_1570215423_kotsarelos#36 [0mfrom 8941
+[0m[2019-10-04 21:58:40] [1m[INFO]	[0mReceived message: [1m 8941_8861_1570215497_kotsarelos#37 [0mfrom 8941
+[0m[2019-10-04 21:58:42] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570215461_Message from toliz with id 36 [0mto 8844
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570215490_The ships hung in the sky in much the same way that bricks don't! #29 [0mto 8844
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215450_This is a random message #33! [0mto 8844
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570215423_kotsarelos#36 [0mto 8844
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mReceived message: [1m 8861_8844_1570215450_This is a random message #33! [0mfrom 8941
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570215457_I am message #28 of GKyri [0mfrom 8941
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570215461_Message from toliz with id 36 [0mto 8861
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570215490_The ships hung in the sky in much the same way that bricks don't! #29 [0mto 8861
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570215423_kotsarelos#36 [0mto 8861
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215497_kotsarelos#37 [0mto 8861
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570215461_Message from toliz with id 36 [0mto 8941
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8997_8941_1570215490_The ships hung in the sky in much the same way that bricks don't! #29 [0mto 8941
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215450_This is a random message #33! [0mto 8941
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8880_8941_1570215461_Message from toliz with id 36 [0mto 8997
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8861_8844_1570215450_This is a random message #33! [0mto 8997
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8941_8997_1570215423_kotsarelos#36 [0mto 8997
+[0m[2019-10-04 21:58:42] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215497_kotsarelos#37 [0mto 8997
+[0m[2019-10-04 21:59:45] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 21:59:45] [1m[INFO]	[0mSent message:     [1m 8941_8861_1570215497_kotsarelos#37 [0mto 8844
+[0m[2019-10-04 22:00:34] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570215635_This is a random message #34! [0mfrom 8861
+[0m[2019-10-04 22:00:48] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:00:48] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570215635_This is a random message #34! [0mto 8844
+[0m[2019-10-04 22:00:48] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570215635_This is a random message #34! [0mto 8941
+[0m[2019-10-04 22:00:48] [1m[INFO]	[0mSent message:     [1m 8861_8934_1570215635_This is a random message #34! [0mto 8997
+[0m[2019-10-04 22:01:12] [1m[INFO]	[0mReceived message: [1m 8844_8880_1570215457_I am message #28 of GKyri [0mfrom 8997
+[0m[2019-10-04 22:01:12] [1m[INFO]	[0mReceived message: [1m 8861_8934_1570215635_This is a random message #34! [0mfrom 8997
+[0m[2019-10-04 22:01:12] [1m[INFO]	[0mReceived message: [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mfrom 8997
+[0m[2019-10-04 22:01:27] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570215631_kotsarelos#38 [0mfrom 8941
+[0m[2019-10-04 22:01:29] [1m[INFO]	[0mReceived message: [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mfrom 8941
+[0m[2019-10-04 22:01:37] [1m[INFO]	[0mReceived message: [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mfrom 8861
+[0m[2019-10-04 22:01:37] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570215631_kotsarelos#38 [0mfrom 8861
+[0m[2019-10-04 22:01:52] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:01:52] [1m[INFO]	[0mSent message:     [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mto 8844
+[0m[2019-10-04 22:01:52] [1m[INFO]	[0mSent message:     [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mto 8861
+[0m[2019-10-04 22:01:52] [1m[INFO]	[0mSent message:     [1m 8997_8877_1570215672_The ships hung in the sky in much the same way that bricks don't! #30 [0mto 8941
+[0m[2019-10-04 22:02:07] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570215727_Message from toliz with id 37
+[0m[0m[2019-10-04 22:02:08] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570215674_I am message #29 of GKyri [0mfrom 8844
+[0m[2019-10-04 22:02:08] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570215631_kotsarelos#38 [0mfrom 8844
+[0m[2019-10-04 22:02:26] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570215631_kotsarelos#38 [0mfrom 8997
+[0m[2019-10-04 22:02:26] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570215674_I am message #29 of GKyri [0mfrom 8997
+[0m[2019-10-04 22:02:26] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570215745_The ships hung in the sky in much the same way that bricks don't! #31 [0mfrom 8997
+[0m[2019-10-04 22:02:39] [1m[INFO]	[0mReceived message: [1m 8844_8261_1570215674_I am message #29 of GKyri [0mfrom 8861
+[0m[2019-10-04 22:02:39] [1m[INFO]	[0mReceived message: [1m 8997_8765_1570215745_The ships hung in the sky in much the same way that bricks don't! #31 [0mfrom 8861
+[0m[2019-10-04 22:02:55] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215727_Message from toliz with id 37 [0mto 8844
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570215745_The ships hung in the sky in much the same way that bricks don't! #31 [0mto 8844
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215727_Message from toliz with id 37 [0mto 8861
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570215674_I am message #29 of GKym [0mto 8861
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570215745_The ships hung in the sky in much the same way that bricks don't! #31 [0mto 8861
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215727_Message from toliz with id 37 [0mto 8941
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570215674_I am message #29 of GKym [0mto 8941
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8997_8765_1570215745_The ships hung in the sky in much the same way that bricks don't! #31 [0mto 8941
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215727_Message from toliz with id 37 [0mto 8997
+[0m[2019-10-04 22:02:55] [1m[INFO]	[0mSent message:     [1m 8844_8261_1570215674_I am message #29 of GKym [0mto 8997
+[0m[2019-10-04 22:03:41] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570215820_This is a random message #35! [0mfrom 8861
+[0m[2019-10-04 22:03:46] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570215820_This is a random message #35! [0mfrom 8997
+[0m[2019-10-04 22:03:46] [1m[INFO]	[0mReceived message: [1m 8997_8934_1570215826_The ships hung in the sky in much the same way that bricks don't! #32 [0mfrom 8997
+[0m[2019-10-04 22:03:58] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215820_This is a random message #35! [0mto 8844
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215826_The ships hung in the sky in much the same way that bricks don't! #32 [0mto 8844
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215826_The ships hung in the sky in much the same way that bricks don't! #32 [0mto 8861
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215820_This is a random message #35! [0mto 8941
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8997_8934_1570215826_The ships hung in the sky in much the same way that bricks don't! #32 [0mto 8941
+[0m[2019-10-04 22:03:58] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570215820_This is a random message #35! [0mto 8997
+[0m[2019-10-04 22:04:20] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570215814_kotsarelos#39 [0mfrom 8941
+[0m[2019-10-04 22:04:24] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570215864_Message from toliz with id 38
+[0m[0m[2019-10-04 22:04:43] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570215814_kotsarelos#39 [0mfrom 8861
+[0m[2019-10-04 22:05:01] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570215814_kotsarelos#39 [0mto 8844
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215864_Message from toliz with id 38 [0mto 8844
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570215814_kotsarelos#39 [0mto 8861
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215864_Message from toliz with id 38 [0mto 8861
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215864_Message from toliz with id 38 [0mto 8941
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570215814_kotsarelos#39 [0mto 8997
+[0m[2019-10-04 22:05:01] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570215864_Message from toliz with id 38 [0mto 8997
+[0m[2019-10-04 22:05:29] [1m[INFO]	[0mReceived message: [1m 8880_8844_1570215864_Message from toliz with id 38 [0mfrom 8997
+[0m[2019-10-04 22:05:29] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570215928_The ships hung in the sky in much the same way that bricks don't! #33 [0mfrom 8997
+[0m[2019-10-04 22:05:46] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570215928_The ships hung in the sky in much the same way that bricks don't! #33 [0mfrom 8861
+[0m[2019-10-04 22:05:56] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570215956_Message from toliz with id 39
+[0m[0m[2019-10-04 22:06:04] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215928_The ships hung in the sky in much the same way that bricks don't! #33 [0mto 8844
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215956_Message from toliz with id 39 [0mto 8844
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215928_The ships hung in the sky in much the same way that bricks don't! #33 [0mto 8861
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215956_Message from toliz with id 39 [0mto 8861
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570215928_The ships hung in the sky in much the same way that bricks don't! #33 [0mto 8941
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215956_Message from toliz with id 39 [0mto 8941
+[0m[2019-10-04 22:06:04] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570215956_Message from toliz with id 39 [0mto 8997
+[0m[2019-10-04 22:06:48] [1m[INFO]	[0mReceived message: [1m 8861_8877_1570216005_This is a random message #36! [0mfrom 8861
+[0m[2019-10-04 22:07:08] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:07:08] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570216005_This is a random message #36! [0mto 8844
+[0m[2019-10-04 22:07:08] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570216005_This is a random message #36! [0mto 8941
+[0m[2019-10-04 22:07:08] [1m[INFO]	[0mSent message:     [1m 8861_8877_1570216005_This is a random message #36! [0mto 8997
+[0m[2019-10-04 22:07:20] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570216001_kotsarelos#40 [0mfrom 8941
+[0m[2019-10-04 22:07:50] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570216001_kotsarelos#40 [0mfrom 8861
+[0m[2019-10-04 22:08:11] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:08:21] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570216001_kotsarelos#40 [0mfrom 8844
+[0m[2019-10-04 22:08:56] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570216136_Message from toliz with id 40
+[0m[0m[2019-10-04 22:09:14] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:09:14] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216136_Message from toliz with id 40 [0mto 8844
+[0m[2019-10-04 22:09:14] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216136_Message from toliz with id 40 [0mto 8861
+[0m[2019-10-04 22:09:14] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216136_Message from toliz with id 40 [0mto 8941
+[0m[2019-10-04 22:09:14] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216136_Message from toliz with id 40 [0mto 8997
+[0m[2019-10-04 22:09:15] [1m[INFO]	[0mReceived message: [1m 8941_8880_1570216001_kotsarelos#40 [0mfrom 8997
+[0m[2019-10-04 22:09:15] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mfrom 8997
+[0m[2019-10-04 22:09:23] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570216108_I am message #31 of GKyri [0mfrom 8844
+[0m[2019-10-04 22:09:23] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mfrom 8844
+[0m[2019-10-04 22:09:55] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mfrom 8861
+[0m[2019-10-04 22:09:55] [1m[INFO]	[0mReceived message: [1m 8844_9001_1570216108_I am message #31 of GKyri [0mfrom 8861
+[0m[2019-10-04 22:09:55] [1m[INFO]	[0mReceived message: [1m 8861_8941_1570216190_This is a random message #37! [0mfrom 8861
+[0m[2019-10-04 22:10:17] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mto 8844
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570216190_This is a random message #37! [0mto 8844
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mto 8861
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570216108_I am message #31 of GKym [0mto 8861
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216155_The ships hung in the sky in much the same way that bricks don't! #34 [0mto 8941
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570216108_I am message #31 of GKym [0mto 8941
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570216190_This is a random message #37! [0mto 8941
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8844_9001_1570216108_I am message #31 of GKym [0mto 8997
+[0m[2019-10-04 22:10:17] [1m[INFO]	[0mSent message:     [1m 8861_8941_1570216190_This is a random message #37! [0mto 8997
+[0m[2019-10-04 22:10:20] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570216217_kotsarelos#41 [0mfrom 8941
+[0m[2019-10-04 22:10:36] [1m[INFO]	[0mGenerated message: [1m8880_8844_1570216236_Message from toliz with id 41
+[0m[0m[2019-10-04 22:10:57] [1m[INFO]	[0mReceived message: [1m 8941_8844_1570216217_kotsarelos#41 [0mfrom 8861
+[0m[2019-10-04 22:11:20] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570216217_kotsarelos#41 [0mto 8844
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216236_Message from toliz with id 41 [0mto 8844
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570216217_kotsarelos#41 [0mto 8861
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216236_Message from toliz with id 41 [0mto 8861
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216236_Message from toliz with id 41 [0mto 8941
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8941_8844_1570216217_kotsarelos#41 [0mto 8997
+[0m[2019-10-04 22:11:20] [1m[INFO]	[0mSent message:     [1m 8880_8844_1570216236_Message from toliz with id 41 [0mto 8997
+[0m[2019-10-04 22:11:42] [1m[INFO]	[0mReceived message: [1m 8880_8844_1570216236_Message from toliz with id 41 [0mfrom 8997
+[0m[2019-10-04 22:11:42] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570216301_The ships hung in the sky in much the same way that bricks don't! #35 [0mfrom 8997
+[0m[2019-10-04 22:11:59] [1m[INFO]	[0mReceived message: [1m 8997_8261_1570216301_The ships hung in the sky in much the same way that bricks don't! #35 [0mfrom 8861
+[0m[2019-10-04 22:12:23] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:12:23] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216301_The ships hung in the sky in much the same way that bricks don't! #35 [0mto 8844
+[0m[2019-10-04 22:12:23] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216301_The ships hung in the sky in much the same way that bricks don't! #35 [0mto 8861
+[0m[2019-10-04 22:12:23] [1m[INFO]	[0mSent message:     [1m 8997_8261_1570216301_The ships hung in the sky in much the same way that bricks don't! #35 [0mto 8941
+[0m[2019-10-04 22:12:30] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570216325_I am message #32 of GKyri [0mfrom 8844
+[0m[2019-10-04 22:13:02] [1m[INFO]	[0mReceived message: [1m 8844_8997_1570216325_I am message #32 of GKyri [0mfrom 8861
+[0m[2019-10-04 22:13:02] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570216375_This is a random message #38! [0mfrom 8861
+[0m[2019-10-04 22:13:27] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:13:27] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570216325_I am message #32 of GKym [0mto 8861
+[0m[2019-10-04 22:13:27] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570216325_I am message #32 of GKym [0mto 8941
+[0m[2019-10-04 22:13:27] [1m[INFO]	[0mSent message:     [1m 8844_8997_1570216325_I am message #32 of GKym [0mto 8997
+[0m[2019-10-04 22:13:32] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570216375_This is a random message #38! [0mfrom 8844
+[0m[2019-10-04 22:14:24] [1m[INFO]	[0mGenerated message: [1m8880_8261_1570216464_Message from toliz with id 42
+[0m[0m[2019-10-04 22:14:30] [31m[1m[ERROR]	Connection to 10.0.82.61 failed
+[0m[2019-10-04 22:14:30] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570216464_Message from toliz with id 42 [0mto 8844
+[0m[2019-10-04 22:14:30] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570216464_Message from toliz with id 42 [0mto 8861
+[0m[2019-10-04 22:14:30] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570216464_Message from toliz with id 42 [0mto 8941
+[0m[2019-10-04 22:14:30] [1m[INFO]	[0mSent message:     [1m 8880_8261_1570216464_Message from toliz with id 42 [0mto 8997
+[0m[2019-10-04 22:14:41] [1m[INFO]	[0mReceived message: [1m 8861_8880_1570216375_This is a random message #38! [0mfrom 8997
+[0m[2019-10-04 22:14:42] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570216481_The ships hung in the sky in much the same way that bricks don't! #36 [0mfrom 8997
+[0m[2019-10-04 22:15:06] [1m[INFO]	[0mReceived message: [1m 8997_8880_1570216481_The ships hung in the sky in much the same way that bricks don't! #36 [0mfrom 8861
+[0m
