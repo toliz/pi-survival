@@ -26,7 +26,6 @@ pthread_mutex_t lock;   // Used to secure operations on the global variables
 void* receive_thread_func();
 void* send_thread_func(void *sleep_time);
 void* generate(int min_sleep_time, int max_sleep_time);
-char buffer[512];
 
 int main() {
     /* Initialization */
@@ -71,6 +70,7 @@ int main() {
 void* generate(int min_sleep_time, int max_sleep_time) {
     message m;
     int sleep_time;
+    char buffer[512];
     
     for (int id = 12; TRUE; id++) {        
         /* Generate message */
@@ -80,7 +80,8 @@ void* generate(int min_sleep_time, int max_sleep_time) {
         pthread_mutex_lock(&lock);
         write_message(m, myPI);
         pthread_mutex_unlock(&lock);
-        message_to_string (m, buffer);
+        
+        message_to_string(m, buffer);
         log(INFO, "Generated message: "ANSI_BOLD"%s\n"ANSI_COLOR_RESET, buffer);
 
         sleep_time = min_sleep_time + rand() % (max_sleep_time - min_sleep_time + 1);
@@ -90,21 +91,23 @@ void* generate(int min_sleep_time, int max_sleep_time) {
 
 
 void* send_thread_func(void *sleep_time) {
-    uint32 pi;
-    record *r;
+    int idx, status;
+    message m;
+    uint32 AEM;
+    char buffer[512];
 
     while(TRUE) {
 
         /* Send unsent messages */
-        for (int idx = 0; idx < N_PI; idx++) {
-            pi = list[idx];
+        for (int pi = 0; pi < N_PI; pi++) {
+            AEM = list[idx];
             
             pthread_mutex_lock(&lock);
-            while((r = read_message(pi)) != NULL) {
-                message_to_string (r->message, buffer);
-                int status = send_message(buffer, pi);
-                if (status == 1)
-                    r->recipients[idx] = TRUE;
+            while((idx = read_message(AEM, &m)) != -1) {
+                message_to_string(records[idx].message, buffer);
+
+                if ((status = send_message(buffer, pi)) == 1)
+                    records[idx].recipients[idx] = TRUE;
                 else if (status == -1)
                     break;
             }

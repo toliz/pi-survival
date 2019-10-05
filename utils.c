@@ -24,20 +24,16 @@ uint32 n_digits(uint64 n){
     return ndigits;
 }
 
-int message_to_string(const message m, char* buf) {
+bool message_to_string(const message m, char* string) {
 /* Converts messages to strings
  *
  * Parameters:
  *  - m : the message
+ *  - string: the string to be written
  * 
- * returns: a string representing the message
+ * returns: TRUE upon success, FALSE otherwise
  */
-    // char* string = (char*) malloc((n_digits(m.sAEM) + 
-    //                                n_digits(m.rAEM) + 
-    //                                n_digits(m.timestamp) + 
-    //                                strlen(m.text) + 1) * sizeof(char));
-
-    return sprintf(buf, "%lu_%lu_%llu_%s", m.sAEM, m.rAEM, m.timestamp, m.text);
+    return sprintf(string, "%lu_%lu_%llu_%s", m.sAEM, m.rAEM, m.timestamp, m.text) > 0;
 }
 
 bool string_to_message(const char* _string, message* m) {
@@ -45,14 +41,13 @@ bool string_to_message(const char* _string, message* m) {
  * 
  * Parameters:
  *  - _string : the string containing the message
+ *  - m: the message to be written
  * 
- * returns: a pointer to the message variable or a NULL pointer if the _string
- *          hasn't a proper format
+ * returns: TRUE upon success, FALSE otherwise
  */
-    char *ptr, buffer[512], *string = buffer;
+    char buffer[512], *ptr, *string = buffer;
     
     strcpy(buffer, _string);
-    string[strlen(_string)] = '\0';
 
     if ((ptr = strstr(string, "_")) == NULL) return FALSE;
     *ptr = '\0';
@@ -74,7 +69,6 @@ bool string_to_message(const char* _string, message* m) {
         m->text[255] = '\0';
     } else {
         strcpy(m->text, string);
-        m->text[strlen(string)] = '\0';
     }
 
     if (m->sAEM == 0 || m->rAEM == 0 || m->timestamp == 0)
@@ -83,7 +77,7 @@ bool string_to_message(const char* _string, message* m) {
         return TRUE;
 }
 
-void write_message(message m, uint32 pi) {
+int write_message(message m, uint32 pi) {
 /* Updates records with a new message m.
  *
  * First it checks for duplicate messages already in the records, and if not
@@ -94,8 +88,12 @@ void write_message(message m, uint32 pi) {
  *
  * Parameters:
  *  - m : the message to be inserted
+ *  - pi : the AEM of the  pi that sent this message or myPI for message generation
+ * 
+ * returns the idx of the written message int the records or -1 for duplicate message
  */
-    static uint32 curr_idx = 0;
+    int idx;
+    static int curr_idx = 0;
 
     // Check for duplicates
     for (uint32 idx = 0; idx < N_MESSAGES; idx++) {
@@ -103,7 +101,7 @@ void write_message(message m, uint32 pi) {
             records[idx].message.rAEM == m.rAEM &&
             records[idx].message.timestamp == m.timestamp &&
             strcmp(records[idx].message.text, m.text) == 0) {
-                return;
+                return -1;
             }
     }
 
@@ -125,10 +123,13 @@ void write_message(message m, uint32 pi) {
     }
    
     // Move current index
+    idx = curr_idx;
     curr_idx = (curr_idx + 1) % N_MESSAGES;
+
+    return idx;
 }
 
-record* read_message(uint32 pi) {
+int read_message(uint32 pi, message *m) {
 /* This function yields the messages that need to be sent to pi with a specific
  * AEM.
  *
@@ -143,18 +144,19 @@ record* read_message(uint32 pi) {
  *  returns: a pointer to the record to be sent or NULL if there is no message
  *           to send.
  */
-    static uint32 curr_idx = 0;
+    static int curr_idx = 0;
 
     // Scan the records ONCE for the given AEM
     while (TRUE) {
         if (curr_idx == N_MESSAGES) {
             curr_idx = 0;
-            return NULL;
+            return -1;
         }
 
         if (records[curr_idx].recipients[map[pi]] == FALSE &&
             records[curr_idx].message.sAEM != 0) {
-                return &records[curr_idx++];
+                m = &records[curr_idx].message;
+                return curr_idx++;
             }
 
         curr_idx++;
