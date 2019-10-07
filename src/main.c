@@ -41,8 +41,8 @@ int main() {
     init_logger("log.txt");
 
     /* Create threads for sending and receiving messages */
-    int send_sleep_time = 2;
-    int generate_min_sleep_time = 1, generate_max_sleep_time = 2;
+    int send_sleep_time = 60;
+    int generate_min_sleep_time = 60, generate_max_sleep_time = 300;
 
     pthread_t send_thread, receive_thread;
 
@@ -72,7 +72,7 @@ void* generate(int min_sleep_time, int max_sleep_time) {
     message m;
     int sleep_time;
     char buffer[512];
-    
+
     for (int id = 1; TRUE; id++) {        
         /* Generate message */
         m = (message) {myPI, list[rand()%N_PI], time(NULL), ""};
