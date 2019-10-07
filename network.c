@@ -11,11 +11,11 @@
 #include "network.h"
 
 
-int intialize_listener() {
 /* Initializes the listener.
  *
  * returns 1 upon successful initialization and 0 with the proper message otherwise
  */
+int intialize_listener() {
     // Creating socket file descriptor 
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) {
         log(ERROR, "Listener socket initialization failed.\n");
@@ -45,7 +45,6 @@ int intialize_listener() {
 }
 
 
-int send_message(const char *msg, uint32 pi) {
 /* Sends a message to a designated raspbery pi
  *
  * First it converts the pi AEM into an adress and then sends the message.
@@ -58,6 +57,7 @@ int send_message(const char *msg, uint32 pi) {
  *          0 upon any other failure
  *          1 upon transmission success
  */
+int send_message(const char *msg, uint32 pi) {
     char address[13];
     int yy = pi%100, xx = (pi-yy)/100;
     sprintf(address, "10.0.%d.%d", xx, yy);
@@ -96,7 +96,6 @@ int send_message(const char *msg, uint32 pi) {
 }
 
 
-int receive_message(char* buffer, int nbytes) {
 /* Receives a message from any pi in the network
  *
  * The first part of the script waits a messages to be accepted from any adress in the
@@ -110,6 +109,7 @@ int receive_message(char* buffer, int nbytes) {
  * returns 0 upon any error
  *         1 upon successful read of the message
  */
+int receive_message(char* buffer, int nbytes) {
     int sock;
     struct sockaddr_in client_addr;
     socklen_t addrlen = sizeof(client_addr);

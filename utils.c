@@ -6,25 +6,6 @@
 #include "utils.h"
 
 
-uint32 n_digits(uint64 n){
-/* Counts the number of digits of an integer
- *
- * Parameters:
- *  - n : the integer
- * 
- * returns: the number of digits of n
- */
-    uint32 ndigits = 1;
-
-    while (n >= 10) {
-        n = (n - n%10) / 10;
-        ndigits++;
-    }
-
-    return ndigits;
-}
-
-bool message_to_string(const message m, char* string) {
 /* Converts messages to strings
  *
  * Parameters:
@@ -33,10 +14,11 @@ bool message_to_string(const message m, char* string) {
  * 
  * returns: TRUE upon success, FALSE otherwise
  */
+bool message_to_string(const message m, char* string) {
     return sprintf(string, "%lu_%lu_%llu_%s", m.sAEM, m.rAEM, m.timestamp, m.text) > 0;
 }
 
-bool string_to_message(const char* _string, message* m) {
+
 /* Converts strings to messages
  * 
  * Parameters:
@@ -45,6 +27,7 @@ bool string_to_message(const char* _string, message* m) {
  * 
  * returns: TRUE upon success, FALSE otherwise
  */
+bool string_to_message(const char* _string, message* m) {
     char buffer[512], *ptr, *string = buffer;
     
     strcpy(buffer, _string);
@@ -77,7 +60,7 @@ bool string_to_message(const char* _string, message* m) {
         return TRUE;
 }
 
-int write_message(message m, uint32 pi) {
+
 /* Updates records with a new message m.
  *
  * First it checks for duplicate messages already in the records, and if not
@@ -92,6 +75,7 @@ int write_message(message m, uint32 pi) {
  * 
  * returns the idx of the written message int the records or -1 for duplicate message
  */
+int write_message(message m, uint32 pi) {
     int idx;
     static int curr_idx = 0;
 
@@ -129,7 +113,7 @@ int write_message(message m, uint32 pi) {
     return idx;
 }
 
-int read_message(uint32 pi, message *m) {
+
 /* This function yields the messages that need to be sent to pi with a specific
  * AEM.
  *
@@ -144,6 +128,7 @@ int read_message(uint32 pi, message *m) {
  *
  *  returns: the idx of the read message int the records or -1 for duplicate message
  */
+int read_message(uint32 pi, message *m) {
     static int curr_idx = 0;
 
     // Scan the records ONCE for the given AEM
