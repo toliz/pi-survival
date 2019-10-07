@@ -41,8 +41,8 @@ int main() {
     init_logger("log.txt");
 
     /* Create threads for sending and receiving messages */
-    int send_sleep_time = 60;
-    int generate_min_sleep_time = 60, generate_max_sleep_time = 300;
+    int send_sleep_time = 2;
+    int generate_min_sleep_time = 1, generate_max_sleep_time = 2;
 
     pthread_t send_thread, receive_thread;
 
@@ -59,6 +59,7 @@ int main() {
     
     /* Generate random messages */
     generate(generate_min_sleep_time, generate_max_sleep_time);
+    send_thread_func(&send_sleep_time);
 
     pthread_join(send_thread, NULL);
     pthread_join(receive_thread, NULL);
@@ -72,7 +73,7 @@ void* generate(int min_sleep_time, int max_sleep_time) {
     int sleep_time;
     char buffer[512];
     
-    for (int id = 12; TRUE; id++) {        
+    for (int id = 1; TRUE; id++) {        
         /* Generate message */
         m = (message) {myPI, list[rand()%N_PI], time(NULL), ""};
         sprintf(m.text, "Message from toliz with id %d", id);
@@ -100,13 +101,13 @@ void* send_thread_func(void *sleep_time) {
 
         /* Send unsent messages */
         for (int pi = 0; pi < N_PI; pi++) {
-            AEM = list[idx];
+            AEM = list[pi];
             
             pthread_mutex_lock(&lock);
             while((idx = read_message(AEM, &m)) != -1) {
-                message_to_string(records[idx].message, buffer);
+                message_to_string(m, buffer);
 
-                if ((status = send_message(buffer, pi)) == 1)
+                if ((status = send_message(buffer, AEM)) == 1)
                     records[idx].recipients[idx] = TRUE;
                 else if (status == -1)
                     break;
